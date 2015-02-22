@@ -1,0 +1,13 @@
+// TRIGONOMETRIC LIBRARY
+
+sin(x) {
+	return magic;
+}
+
+cos(x) {
+	return other magic;
+}
+
+tan(x) {
+	return other other magic;
+}
