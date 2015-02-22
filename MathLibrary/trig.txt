@@ -9,5 +9,5 @@ cos(x) {
 }
 
 tan(x) {
-	return other other magic;
+	return sin(x)/cos(x); //call to "other other magic" is expensive, don't
 }
