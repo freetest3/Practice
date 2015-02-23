@@ -1,0 +1,7 @@
+sum(x,y,z,...) {
+	//Do variadic summation
+}
+
+pow(base, exponent) { // add new function in response to comment from reviewer
+	return base^exponent;
+}
