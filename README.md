@@ -1,2 +1,2 @@
-This is a README file (fu not using comma) since GitHub insists on it existing. Creating locally, then pushing to GitHub.
-Now the original author makes this change, but it's different.. commit and see wwhat happens.
+Let's rewrite the README to be a bit better.
+In addition to being a basic project, it now has a math library, which is pretty cool.
